@@ -68,5 +68,3 @@ Status codes:
 - **Tempo total** — duração da execução, do primeiro disparo ao último retorno.
 - **Throughput** — vazão média (requests por segundo).
 - **Status codes** — distribuição dos demais códigos HTTP retornados (404, 500, …).
-
-```
